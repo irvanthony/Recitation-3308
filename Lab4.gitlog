@@ -1,0 +1,26 @@
+commit be58e192f7e47ed82900b2c90e0608766a2fc975 (HEAD -> master, origin/master, origin/HEAD)
+Merge: b2f56b3 237d351
+Author: Irvin Carbajal <irca8776@colorado.edu>
+Date:   Thu Sep 27 11:32:01 2018 -0600
+
+    This
+
+commit b2f56b334ce28ce516eac29b5e9f5bbc4df79832
+Author: Irvin Carbajal <irca8776@colorado.edu>
+Date:   Thu Sep 27 11:27:18 2018 -0600
+
+    This will probably cause a merge conflict
+
+commit 237d351031216e2ea09322d552c51da2fea92f5b
+Author: Jonathan Noranbrock <jono5589@Colorado.edu>
+Date:   Thu Sep 27 11:22:46 2018 -0600
+
+    This is a conflict error waiting to happne
+
+commit de661ba571a99ef55a7535ef283c2007c71ac628
+Author: Irvin Carbajal <irca8776@colorado.edu>
+Date:   Thu Sep 27 11:09:55 2018 -0600
+
+    Adding two text files
+
+commit 183f57fc5ec61119d33a8c0ba68316fc9dd0e4dd (tag: v0.0.1, origin/new-feature:
